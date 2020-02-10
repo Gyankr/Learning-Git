@@ -1,0 +1,2 @@
+code to game project
+use git to manage teams
